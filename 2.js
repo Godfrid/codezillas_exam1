@@ -1,0 +1,1 @@
+// 5.2 Az objectec eseteben a valtozo megadas nem kreal uj objectet, csak hivatkozaskent mukodik az objectre.
