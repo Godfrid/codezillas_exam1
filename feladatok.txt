@@ -30,10 +30,15 @@ Jó munkát!
 
 4. Hálózati ismeretek (5p)
 4.1. Mi a saját géped IP címe? (1p)
+192.168.5.16
 4.2. Mire jó a router? (1p)
+Helyi halozat letrehozasara, egyeni eszkozok rajta keresztul csatlakozhatnak egy masik halozatra, internetre.
 4.3. Mi az a TCP és az UDP és mi közöttük a különbség? (1p)
+Ket adattovabbitasi protokoll a kulonbseg a megbizhatosagban es az ebbol kovetkezo sebesseg kulonbsegben rjelik. Az UDP gyorsabb de kevesse megbizhato jobbara hnagtovabbitasra hasznaljak.
 4.4. Mi az a HTTP és milyen metódusai vannak, melyik method mit csinál? (1p)
+GET adatot hiv le POST adatot kuld DELETE adatot torol PUT adatot frissit.
 4.5. Írj egy teljes alakú URI formátumot! (1p)
+http://www.linkdin.com/index.html
 
 5. Programozási alapok (40p)
 5.1. Írj példát az összes általad írt adattípusra és kommentezd fölé a nevét. (3p)
