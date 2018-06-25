@@ -1,0 +1,34 @@
+body {
+  margin: 0;
+  padding: 0;
+  display: flex;
+}
+
+.page {
+  display: flex;
+  flex-direction: column;
+  background: blue;
+  width: 300px;
+  height: 100px;
+}
+
+.name {
+  display: flex;
+  background: rgb(82, 94, 82);
+  opacity: 0.8;
+  flex-direction: column;
+  height: 40%;
+}
+
+.wrapcontact {
+  display: flex;
+  background: rgb(82, 94, 82);
+  opacity: 0.8;
+  flex-direction: column;
+  height: 60%;
+}
+
+.contact {
+  display: flex;  
+  text-align: center;
+}
